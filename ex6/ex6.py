@@ -33,16 +33,16 @@ e = "a string with a right side."
 # print w plus e
 print w + e
 
-# study drills 1
+# study drills 1：Go through this program and write a comment above each line explaining it.
 # the above
 
-# study drills 2
+# study drills 2:Find all the places where a string is put inside a string. There are four places.
 # 1.y = "Those who know %s and those who %s." % (binary, do_not)   There is two.
 # 2. print "I said: %r." % x
 # 3.print "I also said: '%s'." % y
 
-# study drills 3
+# study drills 3:Are you sure there are only four places? How do you know? Maybe I like lying.
 # There is two in y, then print "I also said: '%s'." % y transfer y so there is also two string in the string.
 
-# study drills 4
+# study drills 4:Explain why adding the two strings w and e with + makes a longer string.
 # Use + is a kind of way to stitch strings
