@@ -18,7 +18,7 @@ print "His teeth are usually %s depending on the coffee." % my_teeth
 print "If I add %d, %d, and %d I get %d." % (
 	my_age, my_height, my_weight, my_age + my_height + my_weight)
 
-# study drills 1
+# study drills 1:Change all the variables so there isn’t the my_ in front. Make sure you change the name everywhere, not just where you used = to set them.
 name = 'Zed A. Shaw'
 age = 35 # not a lie
 height = 74 # inches
@@ -38,7 +38,7 @@ print "His teeth are usually %s depending on the coffee." % teeth
 print "If I add %d, %d, and %d I get %d." % (
 	age, height, weight, age + height + weight)
 	
-# study drills 2
+# study drills 2:Try more format characters. %r is a very useful one. It’s like saying “print this no matter what.”
 name = 'Zed A. Shaw'
 age = 35 # not a lie
 height = 74 # inches
@@ -58,7 +58,7 @@ print "His teeth are usually %r depending on the coffee." % teeth
 print "If I add %r, %r, and %r I get %r." % (
 	age, height, weight, age + height + weight)
 	
-# study drills 3
+# study drills 3:Search online for all the Python format characters.
 
 # 'd'	Signed integer decimal.格式化整数
 # 'i'	Signed integer decimal. 转成有符号十进制数
@@ -77,7 +77,7 @@ print "If I add %r, %r, and %r I get %r." % (
 # 's'	String (converts any Python object using str()). 格式化字符串 %s用str()方法处理对象
 # '%'	No argument is converted, results in a '%' character in the result. 输出% （格式化字符串里面包括百分号，那么必须使用%%）
 
-# study drills 4
+# study drills 4:Try to write some variables that convert the inches and pounds to centimeters and kilos. Do not just type in the measurements. Work out the math in Python.
 height = 100 #inches
 weight = 100 #pounds
 print "100 inchs = %s centimeters" % (2.54*height)
