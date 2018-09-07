@@ -45,4 +45,4 @@ print w + e
 # There is two in y, then print "I also said: '%s'." % y transfer y so there is also two string in the string.
 
 # study drills 4:Explain why adding the two strings w and e with + makes a longer string.
-# Use +"plus" is a kind of way to stitch strings.
+# Use + is a kind of way to stitch strings.
