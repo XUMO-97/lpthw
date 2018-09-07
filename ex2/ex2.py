@@ -8,7 +8,7 @@ print "I could have code like this." # and the comment after is ignored
 
 print "This will run."
 
-# Study Drills 2
+# Study Drills 2:Take your ex2.py fi le and review each line going backward. Start at the last line, and check each word in reverse against what you should have typed
 
 # 1.Find out if you were right about what the # character does and make sure you know what it’s called (octothorpe or pound character)
 # I will call it pound or jinghao.
